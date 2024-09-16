@@ -1,0 +1,8 @@
+{
+  "code-runner.executorMap": {
+    "python": "~/anaconda3/envs/oj/bin/python -u"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
+}
